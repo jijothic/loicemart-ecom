@@ -1,0 +1,19 @@
+{
+  "name": "loicemart",
+  "version": "1.0.0",
+  "description": "Loicemart ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jijothic/loicemart-ecom.git"
+  },
+  "author": "jijothic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jijothic/loicemart-ecom/issues"
+  },
+  "homepage": "https://github.com/jijothic/loicemart-ecom#readme"
+}

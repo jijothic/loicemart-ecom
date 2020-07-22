@@ -1,9 +1,9 @@
 {
-  "name": "loicemart",
-  "version": "1.0.0",
-  "description": "Loicemart ecommerce",
-  
-
+  "name": "gatsby-ecommerce-professional",
+  "private": true,
+  "description": "An E Commerce starter for Gatsby",
+  "version": "0.1.0",
+  "author": "Nader Dabit <dabit3@gmail.com>",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.0.0-beta.6",
     "@stripe/stripe-js": "^1.0.0-beta.8",
@@ -42,6 +42,7 @@
   "keywords": [
     "gatsby"
   ],
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -51,15 +52,11 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
-
   "repository": {
     "type": "git",
-    "url": "https://github.com/jijothic/loicemart-ecom.git"
+    "url": "https://github.com/dabit3/gatsby-ecommerce-professional"
   },
-  "author": "jijothic<jijothic@gmail.com>",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jijothic/loicemart-ecom/issues"
-  },
-  "homepage": "https://github.com/jijothic/loicemart-ecom#readme"
+    "url": "https://github.com/dabit3/gatsby-ecommerce-professional/issues"
+  }
 }

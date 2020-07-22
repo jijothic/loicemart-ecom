@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Loicemart ECommerce`,
-    description: `Loicemart ecommerce`,
-    author: `@jijothic`,
+    title: `Gatsby JAMstack ECommerce Professional`,
+    description: `Get up and running with your next E Commerce Website.`,
+    author: `@dabit3`,
   },
   plugins: [
     {

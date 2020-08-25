@@ -2,6 +2,12 @@
 	"name": "loicemart-ecom",
 	"version": "0.1.0",
 	"private": true,
+      "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+      },
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.3.2",
@@ -77,12 +83,6 @@
 		"imagemin-optipng": "^8.0.0",
 		"imagemin-svgo": "^8.0.0",
 		"typescript": "^3.9.7"
-	},
-	"scripts": {
-		"start": "react-scripts start",
-		"build": "react-scripts build",
-		"test": "react-scripts test",
-		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
